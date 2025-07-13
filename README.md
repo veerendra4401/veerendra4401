@@ -9,7 +9,7 @@
 
 - Project 3 [GitHub Webhook Monitor](https://github.com/veerendra4401/webhook-repo.git)
 
-- 👨‍💻 All of my projects are available at [https://my-portfoliopersonal-21.netlify.app/](https://my-portfoliopersonal-21.netlify.app/)
+- 👨‍💻 Website [Portfolio](https://my-personal-portfolio-21.netlify.app/)
 
 - 📫 Gmail **thogitiveerendra5@gmail.com**
 

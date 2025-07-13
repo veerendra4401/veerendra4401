@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veerendra4401&label=Profile%20views&color=0e75b6&style=flat" alt="veerendra4401" /> </p>
 
-- Hi I'm Worked on this Projects [Uni-Chat](https://github.com/veerendra4401/Uni-chat.git)
+- Hi I'm Worked on this Projects [ATS Resume Parser](https://github.com/veerendra4401/ATS-Resume-Parser.git)
 
-- Project 2 [Music-Player](https://github.com/veerendra4401/Music-Player.git)
+- Project 2 [Knowledge Base Platform](https://github.com/veerendra4401/Frigga-Cloud-Labs.git)
 
-- Project 3 [PG-Web-Application](https://github.com/veerendra4401/PG-Web-Application.git)
+- Project 3 [GitHub Webhook Monitor](https://github.com/veerendra4401/webhook-repo.git)
 
 - 👨‍💻 All of my projects are available at [https://my-portfoliopersonal-21.netlify.app/](https://my-portfoliopersonal-21.netlify.app/)
 
